@@ -1,0 +1,8 @@
+###set1---------seting primer length [min,opt,max] by delimitating with comma
+17,20,25
+
+###set2---------seting tm value [min,opt,max] by delimitating with comma
+60,62,65
+
+###set3---------seting GC value [min,opt,max] by delimitating with comma
+40,50,60
